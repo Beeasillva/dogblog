@@ -1,13 +1,29 @@
-header{    text-align: center;
+header {
+    text-align: center;
     padding: 180px 50px;
-    background: linear-gradient(180deg, #00000099, #00000099), url(./assets/jpg/barca.jfif);
-    color: white;
+    background: linear-gradient(180deg, #00000099, #00000099), url(./assets/jpg/barcelona0.jpg);
+    color: #166fcb;
     background-size: cover;
     background-position-y: 75%;
 }
-p.barcelona {color: rgb(26, 197, 197);}
-p {color: blueviolet;}
-.content {margin-top: -60px;
-    color: darkgray;
+
+p.barcelona {
+    color: rgb(26, 79, 197);
+}
+
+p {
+    color: #2bb8e2;
+}
+
+.content {
+    margin-top: -60px;
+    color: #8d0940;
     width: 83%;
-    background-color: gainsboro;}
+    background-color: gainsboro;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 20px 8px black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+}
