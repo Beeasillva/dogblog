@@ -1,0 +1,13 @@
+header{    text-align: center;
+    padding: 180px 50px;
+    background: linear-gradient(180deg, #00000099, #00000099), url(./assets/jpg/barca.jfif);
+    color: white;
+    background-size: cover;
+    background-position-y: 75%;
+}
+p.barcelona {color: rgb(26, 197, 197);}
+p {color: blueviolet;}
+.content {margin-top: -60px;
+    color: darkgray;
+    width: 83%;
+    background-color: gainsboro;}
