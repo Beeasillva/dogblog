@@ -1,10 +1,10 @@
 header {
     text-align: center;
     padding: 180px 50px;
-    background: linear-gradient(180deg, #00000099, #00000099), url(./assets/jpg/barcelona0.jpg);
-    color: #166fcb;
+    background: linear-gradient(180deg, #00000099, #5a515199), url(./assets/jpg/dog2.webp);
+    color: #526d88;
     background-size: cover;
-    background-position-y: 75%;
+    background-position-y: 35%;
 }
 
 p.barcelona {
@@ -26,4 +26,4 @@ p {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
-}
+html {background: radial-gradient(black, #343434a3);}
